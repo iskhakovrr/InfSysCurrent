@@ -12,7 +12,16 @@ class CalculationTest {
    void setUp() {
         testingClass = new Calculation();
     }
-
+	
+    @Test
+    void calc_n() {
+        assertEquals(1300, Calculation.Calc_n(13, 10000));
+    }
+	
+	    @Test
+    void calc_n2() {
+        assertEquals(1500, Calculation.Calc_n(15, 10000));
+    }
 	
 	@Test
     void calc_n7() {
