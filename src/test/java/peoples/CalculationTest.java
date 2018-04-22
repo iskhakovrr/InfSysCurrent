@@ -23,6 +23,16 @@ class CalculationTest {
         assertEquals(1500, Calculation.Calc_n(15, 10000));
     }
 	
+	    @Test
+    void calc_n3() {
+        assertEquals(11500, Calculation.Calc_n(23, 50000));
+    }
+	
+	    @Test
+    void calc_n4() {
+        assertEquals(4320, Calculation.Calc_n(18, 24000));
+    }
+	
 		@Test
     void calc_n5() {
         assertEquals(630, Calculation.Calc_n(9, 7000));
