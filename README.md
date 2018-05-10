@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iskhakovrr/NDFL.svg?branch=master)](https://travis-ci.org/iskhakovrr/NDFL)
+[![Build Status](https://travis-ci.org/iskhakovrr/InfSysCurrent.svg?branch=master)](https://travis-ci.org/iskhakovrr/InfSysCurrent)
 # InfSysCurrent
                         Может быть интересно: 
 https://junit.org/junit5/docs/current/user-guide/
